@@ -1,0 +1,169 @@
+<html>
+  <head>
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Caveat:wght@500&display=swap" rel="stylesheet">
+	<title></title>
+	<style>
+		*{
+			margin: 0;
+			padding:0;}
+			body {
+				background-color: white;
+			font-family: 'Caveat', cursive;}
+
+.content{
+	display: flex;
+	width: 100%;
+	height: 30vw;
+    color: #fff;
+    flex-direction: column;
+
+}
+ .row{
+	padding: 30vw 0; 
+	width: 100%;
+	height: 30px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin : 10px 0;
+	border-top: 5px solid white;
+	border-bottom: 5px solid white;
+	flex-direction: column;
+}
+.video{
+	padding: 30vw 0; 
+	width: 100%;
+	height: 20px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin : 10px 0;
+	border-top: 5px solid white;
+	border-bottom: 5px solid white;
+}
+.row img {
+	width: 50%;
+}
+h4{
+	font-size: 7vw;
+	margin: 4px auto;
+	text-align: center;
+	color: #161D6F;
+
+}
+h2{
+font-size: 3vw;
+	margin: 4px auto;
+	text-align: center;
+	color: #161D6F;
+}
+.audio{
+	display: block;
+}
+
+#k1{
+	background-color: #FCD1D1;
+}
+#k2{
+	background-color: #AEE1E1
+}
+#k3{
+	background-color: #D3E0DC;
+}
+#k4{
+	background-color: #F9DFDC;
+}
+
+
+
+iframe{
+	width: 560px;
+	height:315px;
+	padding: 20px;
+	border :3px solid black;
+}
+
+</style>
+	
+  </head>
+  <body>
+</div>
+
+  <div class="content">
+    <div class="row" id="k1">
+    	<div>
+		<h2>Bacanya Sambil Diputar Lagu kesukaan kamu yaa teman hehe, biar gak sepi AOKAOWKO</h2> <br></div>
+		<div>
+    	<iframe width="853" height="480" src="https://www.youtube.com/embed/epkUBbMn2Z8?si=HkLMlXU1jffb6cCL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    	</div>
+    	<div><br>
+		<h2>Nah kan rame, langsung di scroll yuk</h2> <br></div>
+	</div>
+    <div class="row" id="k2">
+	  <h4 > Hallo Aisyahhh atau ichaa  </h4>
+	</div>
+    <div class="row" id="k3">
+	  <h4 > Yang hari ini lagi ulang tahun </h4>
+	</div>
+    <div class="row" id="k4">
+	  <h4> cieee udah nambah tua aja nih </h4>
+	</div>
+	<div class="row" id="k1">
+	  <h4> semoga sehat selalu yahh </h4>
+	</div>
+    <div class="row" id="k2">
+	  <h4> pokonya harus lebih baik lagi </h4>
+	</div>
+    <div class="row" id="k3">
+	  <h4> gk boleh males2an, apalagi tentang makan (gak pedes kok :)) gak tambah gemuk kok hehehe </h4>
+	</div>
+    <div class="row" id="k4">
+	  <h4> harus lebih rajin kerjanya buat jalan jalan ke list yang kamu tuju itu wkkkwkw. kasian sendirian, enggak ada anjun lagi  </h4>
+	</div>
+	<div class="row" id="k1">
+	  <h4> Gk boleh cepet nyerah yaa aisyahh, apalagi move on dari temen SMA kamu dulu wkwkwk </h4>
+	</div>
+    <div class="row" id="k2">
+	  <h4> Aisyahhh. aku mau cerita, aku kemarin abis nonton film Architecture Love. </h4>
+	  <h4> ada quotes gini "Cinta itu anugerah tapi terkadang juga bisa musibah, maka ungkapkanlah" </h4>
+	</div>
+    <div class="row" id="k3">
+	  <h4> sebenarnya aku suka sama notice kamu dari maba aisyah. makanya aku tau tentang kamu, ikut Bursa terus Memi dan aku pernah nanya ke mba gita tentang kamu wkwkw  </h4>
+	</div>
+	<div class="row" id="k1">
+	  <h4> kamu orangnya ceria, lucu apalagi kalau senyum, gingsul satu ajah lucu apalagi semua wkwkwk.</h4>
+	  <h4> dan yang paling penting kamu pinter aisyahhh hufttt </h4>
+	</div>
+    <div class="row" id="k4">
+	  <h4> karena aku tipe cowok yang cemen, yang gak mau mulai duluan makanya aku cuma bisa liatin kamu aisyah wkwkwk. tapi gak ada angin gak ada ujan, tiba tiba kamu manggil aku. aku seneng banget :) </h4>
+	</div>
+	<div class="row" id="k1">
+	  <h4> aku kira lampu ijo :) makanya aku nyoba deketin kamu, ngajak jalan dll. tapi aku belum berani ngomong pas makan di UMP</h4>
+	</div>
+	<div class="row" id="k1">
+	  <h4> pas kamu mau pulang ke indramayu sama pas wisuda mau ngomong keknya kamu dah bete sama aku :((. </h4>
+	  <h4> aku gak tau sih, salah ku apa tiba tiba kamu sampe nyuekin aku sampe kayak gitu wkwk </h4>
+	</div>
+	<div class="row" id="k1">
+	  <h4> sedih sih wkwkw. tapi gapapa aku tetep seneng bisa ngobrol sama kamu walaupun sebentar</h4>
+	</div>
+	<div class="row" id="k1">
+	  <h4> maafin aku yaa, kalau aku punya salah pas ketemu sama kamu, sampe sampe kamu nyuekin aku kayak gini</h4>
+	</div>
+    <div class="row" id="k2">
+	  <h4> yaudhlah pokonya wish you all the best </h4>
+	</div>
+    <div class="row" id="k4">
+	  <h4> babay... sampai ketemu di lain waktu (kalau panjang umur) hahahaha </h4>
+	</div>
+	<div class="row" id="k1">
+	  <h4> Salam Manis Dari Temenmu Akbar (love) hehehe </h4>
+	</div>
+	<div>
+
+</div>
+</div>
+  </body>
+  
+</html>
